@@ -1,0 +1,9 @@
+{
+  "name": "tab",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @tab/site dev",
+    "build": "pnpm --filter @tab/site build",
+    "preview": "pnpm --filter @tab/site preview"
+  }
+}
