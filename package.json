@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "pnpm --filter @tab/site dev",
     "build": "pnpm --filter @tab/site build",
-    "preview": "pnpm --filter @tab/site preview"
+    "preview": "pnpm --filter @tab/site preview",
+    "deploy": "pnpm --filter @tab/site deploy"
   }
 }
