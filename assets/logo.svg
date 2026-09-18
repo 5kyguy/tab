@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 80" fill="none">
+  <!-- Red-accent horizontal lockup (3rd on logo sheet) -->
+  <rect x="8" y="33" width="40" height="20" rx="3" fill="#C4352A"/>
+  <circle cx="18" cy="43" r="2.5" fill="#EEF1F4"/>
+  <circle cx="28" cy="43" r="2.5" fill="#EEF1F4"/>
+  <circle cx="38" cy="43" r="2.5" fill="#EEF1F4"/>
+  <text
+    x="60"
+    y="56"
+    fill="#0F172A"
+    font-family="Bricolage Grotesque, Arial Black, Helvetica, sans-serif"
+    font-size="48"
+    font-weight="800"
+    letter-spacing="-0.04em"
+  >Tab</text>
+  <circle cx="168" cy="52" r="5.5" fill="#C4352A"/>
+</svg>
